@@ -1,0 +1,6 @@
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\bin\Debug\LibraryDBClassProject.dll
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\bin\Debug\LibraryDBClassProject.pdb
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\obj\Debug\LibraryDBClassProject.dll
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\obj\Debug\LibraryDBClassProject.pdb
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\bin\Debug\LibraryDBClassProject.dll.config
+D:\UCM\CSharp\CSharpProject\CSharpFinalProject\LibraryDBClassProject\obj\Debug\LibraryDBClassProject.csprojResolveAssemblyReference.cache
